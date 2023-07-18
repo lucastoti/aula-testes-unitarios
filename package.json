@@ -1,0 +1,17 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "Unit test",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0"
+  }
+}
